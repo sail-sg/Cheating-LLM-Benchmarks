@@ -1,5 +1,11 @@
 <h1 align='center' style="text-align:center; font-weight:bold; font-size:2.0em;letter-spacing:2.0px;"> Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates </h1>
 
+<p align='left' style="text-align:left;font-size:1.2em;">
+<b>
+    [<a href="h" target="_blank" style="text-decoration: none;">arXiv</a>] 
+</b>
+</p>
+
 # Craft the null response
 
 Run [notebook_gpt4/gpt-4-1106-preview_vs_nil.ipynb](notebook_gpt4/gpt-4-1106-preview_vs_nil.ipynb) to get the null response augmented with the adversarial string. 

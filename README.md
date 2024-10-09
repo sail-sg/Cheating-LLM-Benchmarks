@@ -2,7 +2,7 @@
 
 <p align='left' style="text-align:left;font-size:1.2em;">
 <b>
-    [<a href="h" target="_blank" style="text-decoration: none;">arXiv</a>] 
+    [<a href="" target="_blank" style="text-decoration: none;">arXiv</a>] 
 </b>
 </p>
 

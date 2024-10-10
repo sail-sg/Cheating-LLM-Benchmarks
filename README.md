@@ -2,7 +2,7 @@
 
 <p align='left' style="text-align:left;font-size:1.2em;">
 <b>
-    [<a href="" target="_blank" style="text-decoration: none;">arXiv</a>] 
+    [<a href="https://arxiv.org/abs/2410.07137" target="_blank" style="text-decoration: none;">arXiv</a>] 
 </b>
 </p>
 

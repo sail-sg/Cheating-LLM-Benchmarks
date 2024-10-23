@@ -6,6 +6,8 @@
 </b>
 </p>
 
+![img](./viz/leaderboard.jpeg)
+
 # Craft the null response
 
 Run [notebook_gpt4/gpt-4-1106-preview_vs_nil.ipynb](notebook_gpt4/gpt-4-1106-preview_vs_nil.ipynb) to get the null response augmented with the adversarial string. 
